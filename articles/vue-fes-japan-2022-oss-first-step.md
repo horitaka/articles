@@ -4,6 +4,8 @@ emoji: "🚶🏻"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [Vuejs, OSS]
 published: true
+published_at: 2022-11-20 10:00
+
 ---
 :::message
 > 引用文で書かれている箇所が講演の内容です。
@@ -13,8 +15,10 @@ published: true
 # 概要
 
 Vue Fes Japan Online 2022の視聴レポートです。
-[OSS はじめの一歩](https://vuefes.jp/2022/#oss-first-step)
-[OSS はじめの一歩(動画)](https://www.youtube.com/watch?v=dtD4p89ogKM&t=17413s)
+
+**OSS はじめの一歩[(動画)](https://www.youtube.com/watch?v=dtD4p89ogKM&t=17413s)**
+https://vuefes.jp/2022/#oss-first-step
+
 > Vue.js をはじめ、多くの OSS は利用者からのフィードバックやコントリビューションによって成り立っています。しかし、協力の意思はあっても、実際どのように参加していけばいいのかわからない方も多いのではないでしょうか？
 このセッションでは、実際に Vue.js 日本ユーザーグループにて OSS 開発に参加・協力しているメンバーが、バグ報告やパッチ提供、OSS 開発への参加やドキュメントサポート、そしてコミュニティの運営など、数多くのコントリビューターとどのように進めているのかをご紹介します。
 
@@ -99,4 +103,4 @@ OSS活動への参加となると、知らない人と連絡を取り合うわ�
 私もちょっと躊躇しがちなところがこれまでありましたが、普段の開発でOSSには随分とお世話になっていますので、できることから貢献していきたいと思いました！
 
 OSS活動に興味がある方はこちらの記事も参考にどうぞ。
-https://zenn.dev/horitaka/articles/86bb9c5492cedb
+https://zenn.dev/horitaka/articles/vue-fes-japan-2022-oss-vuetify

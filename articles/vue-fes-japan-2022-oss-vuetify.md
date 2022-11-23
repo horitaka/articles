@@ -4,6 +4,7 @@ emoji: "📑"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [Vuejs,Vuetify, OSS]
 published: true
+published_at: 2022-11-12 10:00
 ---
 
 :::message
@@ -14,8 +15,10 @@ published: true
 
 # 概要
 Vue Fes Japan Online 2022の視聴レポートです。
-[「こわくない」Vuetifyで始めるOSSコントリビュート](https://vuefes.jp/2022/sessions/kenji7157)
-[「こわくない」Vuetifyで始めるOSSコントリビュート(動画)](https://www.youtube.com/watch?v=eOJZ_3W4kaQ&list=WL&index=3&t=15928s)
+
+**「こわくない」Vuetifyで始めるOSSコントリビュート[(動画)](https://www.youtube.com/watch?v=eOJZ_3W4kaQ&t=15928s)**
+https://vuefes.jp/2022/sessions/kenji7157
+
 > Vuetifyに"コントリビュート"する手順についてお話しします。開発環境の構築からPR作成・マージされるところまで、分かりやすく丁寧に解説します。OSS開発・コントリビュートにトライしたい方のお力になれば嬉しいです。
 
 # 講演メモ&感想
@@ -72,4 +75,4 @@ VuetifyというとStar 35k / Fork 6.5k (2022/11時点)と有名なライブラ�
 今後、私もどこかでVuetifyのコントリビュートをやってみようかなと思います。
 
 OSS活動に興味がある方はこちらの記事も参考にどうぞ。
-https://zenn.dev/horitaka/articles/a58fa36f34b70e
+https://zenn.dev/horitaka/articles/vue-fes-japan-2022-oss-first-step
