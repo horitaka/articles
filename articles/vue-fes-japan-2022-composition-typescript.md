@@ -1,5 +1,5 @@
 ---
-title: "Vue Fes Japan Online 2022 レポート - プロダクト開発を止めずに Composition API と TypeScript に最速で移行するための戦い"
+title: "Vue Fes Japan Online 2022 レポート - プロダクト開発を止めずにCompositionAPIとTypeScript"
 emoji: "📑"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [Vuejs, typescript]
