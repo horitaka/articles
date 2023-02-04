@@ -2,7 +2,7 @@
 title: "OSSにコントリビュートした(eslint-plugin-vue) - component-name-in-template-casing"
 emoji: "🔨"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: [Vuejs, JavaScript, ESLint, OSS]
+topics: [vue, JavaScript, ESLint, OSS]
 published: true
 ---
 

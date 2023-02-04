@@ -2,7 +2,7 @@
 title: "Vue Fes Japan Online 2022 レポート - OSSはじめの一歩"
 emoji: "🚶🏻"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: [Vuejs, OSS]
+topics: [vue, OSS]
 published: true
 published_at: 2022-11-20 10:00
 

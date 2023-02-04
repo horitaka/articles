@@ -2,7 +2,7 @@
 title: "Vue Fes Japan Online 2022 レポート - 「こわくない」Vuetifyで始めるOSSコントリビュート"
 emoji: "📑"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: [Vuejs,Vuetify, OSS]
+topics: [vue,Vuetify, OSS]
 published: true
 published_at: 2022-11-12 10:00
 ---

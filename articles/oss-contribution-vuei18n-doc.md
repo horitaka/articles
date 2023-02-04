@@ -2,7 +2,7 @@
 title: "OSSにコントリビュートした(Vue I18n) - APIリファレンスの修正"
 emoji: "🌎"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: [Vue.js, JavaScript, VueI18n, OSS]
+topics: [vue, JavaScript, i18n, OSS]
 published: true
 ---
 

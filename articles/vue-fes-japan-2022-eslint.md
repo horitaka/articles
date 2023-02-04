@@ -2,7 +2,7 @@
 title: "Vue Fes Japan Online 2022 レポート - eslint-plugin-vueを使用して継続的にVue3移行する"
 emoji: "🎃"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: [Vuejs, eslint]
+topics: [vue, eslint]
 published: true
 ---
 :::message
