@@ -3,7 +3,7 @@ title: "TypeScriptでビルドをするときにテストファイルを除く�
 emoji: "🧹"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [typescript, test, jest]
-published: false
+published: true
 ---
 
 TypeScriptでビルドをするときにテストファイルをビルド結果から取り除く方法です。
