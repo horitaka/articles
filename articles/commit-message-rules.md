@@ -187,7 +187,7 @@ npx commitizen init cz-conventional-changelog --save-dev --save-exact
 ...
 ```
 
-## Gitフック`prepare-commit-msg`でコミット時に自動でチェックする
+## Gitフック`prepare-commit-msg`でコミット時に自動でプロンプトを表示する
 
 Gitフックの`prepare-commit-msg`を使用して、`git commit`コマンドを実行したときに毎回commitizenが実行できるようにすることも可能です。
 
