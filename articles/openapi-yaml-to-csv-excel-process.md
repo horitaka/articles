@@ -22,8 +22,7 @@ https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Japanese.pdf
 
 企画の経緯やプロダクトの内容はこちらの記事もご参照いただければと思います。
 https://zenn.dev/horitaka/articles/openapi-yaml-to-csv-excel-product
-
-
+https://zenn.dev/horitaka/articles/openapi-yaml-to-csv-excel-tech
 
 
 # スクラム開発
