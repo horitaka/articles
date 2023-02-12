@@ -3,7 +3,7 @@ title: "OSSの自作ツールを開発するときにひとりスクラムをや
 emoji: "💪"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [nodejs, openapi, cli, typescript, スクラム]
-published: false
+published: true
 ---
 
 [OpenAPI YAML to CSV/Excel Converter](https://github.com/horitaka/openapi-yaml-to-csv-excel)というOSSを開発しました。

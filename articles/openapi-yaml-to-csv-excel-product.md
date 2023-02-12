@@ -1,9 +1,9 @@
 ---
-title: "OpenAPIのYAMLファイルをCSVに変換するCLI(Node.js)を作成した"
+title: "OpenAPIのYAMLファイルをCSVに変換したかったので自分でCLIを作って公開した"
 emoji: "🛠"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: [nodejs, openapi, cli, typescript]
-published: false
+topics: [nodejs, openapi, cli, typescript, oss]
+published: true
 ---
 
 OpenAPIのYAMLファイルをCSVに変換するCLIを作成しました。
