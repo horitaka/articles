@@ -1,3 +1,5 @@
-# Zenn CLI
+### Zennの記事管理用のリポジトリ
 
-* [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)
+記事はこちら
+
+https://zenn.dev/horitaka
