@@ -3,7 +3,7 @@ title: "LocalStackをdocker composeで起動するサンプル"
 emoji: "🌥️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [localstack, docker, aws]
-published: false
+published: true
 ---
 
 LocalStackをdocker composeで起動する方法です。
